@@ -36,9 +36,10 @@
 
 
 ## My Projects
-   You should download my apps before you leave my profile<br>
+   - You should download my apps before you leave my profile<br>
    start with this app: https://cybertooth.app,<br>
    don't forget to give me your feedback.
+   - check my repositories to see my open source projects.
    
    <span style='font-size:100px;'>&#8659;</span>
    <span style='font-size:100px;'>&#8659;</span>
