@@ -43,7 +43,7 @@
     <a href="https://play.google.com/store/apps/details?id=app.cybertooth.cybertooth" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" alt="google play" width="30" height="30" /> </a>
    <br>
    don't forget to give me your feedback.<br>
-   ##
+  * You should download my apps before you leave my profile,<br>
   * Check my repositories to see my open source projects.
 
 
