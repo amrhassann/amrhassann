@@ -42,7 +42,7 @@
     <a href="https://play.google.com/store/apps/details?id=app.cybertooth.cybertooth" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" alt="google play" width="30" height="30" /> </a>
    <br>
    don't forget to give me your feedback.<br>
-   - check my repositories to see my open source projects.
+   - Check my repositories to see my open source projects.
    
    <span style='font-size:100px;'>&#8659;</span>
    <span style='font-size:100px;'>&#8659;</span>
