@@ -20,7 +20,7 @@
 
 
 ## Languages and Tools:   <p align="left">
- <a href="https://pub.dev/packages/flutter_bloc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc" width="60" height="40" /> </a>
+ <a href="https://pub.dev/packages/flutter_bloc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc" width="70" height="40" /> </a>
         <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"> <img src="https://ducafecat.gallerycdn.vsassets.io/extensions/ducafecat/getx-template/1.2.18/1648028740675/Microsoft.VisualStudio.Services.Icons.Default" alt="getx" width="40" height="40" /> </a>
         <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
