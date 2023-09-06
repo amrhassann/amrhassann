@@ -1,6 +1,6 @@
 
-# Hello, I'm Amr Hassan
-### 👨🏻‍💻 a passionate Flutter developer who loves creating beautiful and functional mobile apps.
+# Hello, I'm Amr Hassan 👨🏻‍💻
+### A passionate Flutter developer who loves creating beautiful and functional mobile apps.
 
 
 ### Check out my portfolio [here](https://amrhassann.github.io)
